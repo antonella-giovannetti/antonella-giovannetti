@@ -1,7 +1,10 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20to%20my%20Github%20!%20👩🏼‍💻&width=600&height=200)](https://github.com/Akshay090/svg-banners)
 
 
-### Hi there 👋
+### Hi everyone ! 👋
+
+Hello everyone
+I'm antonella, I'm currently in a bachelor's degree I-T at La Plateforme in Marseille, I'm specializing in the development of artificial intelligence and i'm looking for an apprenticeship as a data analyst / data scientist. 
 
 
 #### SKILLS 
